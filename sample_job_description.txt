@@ -1,0 +1,7 @@
+Junior Machine Learning Engineer
+
+We are looking for a Junior Machine Learning Engineer with Python programming,
+machine learning fundamentals, Pandas, NumPy, scikit-learn, SQL and Git.
+Experience with NLP, REST APIs, FastAPI, Docker or cloud platforms is a plus.
+The candidate should be able to build classification models and evaluate them
+using precision, recall and F1-score.
